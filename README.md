@@ -1,6 +1,6 @@
 # Rotmayer24 Neovim Configuration
 
-A ready-to-use Neovim setup with **Lazy.nvim**, **Alpha-nvim**, **Auto-session**, and essential plugins preconfigured for a smooth workflow.
+A ready-to-use Neovim setup with **Lazy.nvim** and essential plugins preconfigured for a smooth workflow.
 
 ---
 
